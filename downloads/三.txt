@@ -1,0 +1,28 @@
+ipconfig /all, 若看到 2001: 或 2404: 或其他 2xxx: 開頭的 IPv6 address, 就可以直接對 stud.cycu.org 連線  
+
+config /all, 若看到 2001: 或 2404: 或其他 2xxx: 開頭的 IPv6 address, 就可以直接對 stud.cycu.org 連線
+
+cd 進入倉儲根目錄後, 再 cd 至 cmsimde 後, 
+執行 git pull origin master,  表示要針對倉儲中 url 連線名稱為 origin 的倉儲,  拉下其 master 分支模組的資料後進行合併
+
+cd 進入倉儲根目錄後, 再 cd 至 cmsimde 後, 
+執行 git pull origin master,  表示要針對倉儲中 url 連線名稱為 cmsimde 的倉儲,  拉下其 master 分支模組的資料後進行合併
+
+https://nfuedu.sharepoint.com/sites/cad2022/Class%20Materials/Forms/AllItems.aspx?id=%2Fsites%2Fcad2022%2FClass%20Materials%2F2022%2Ffall%2Ffilezilla%2E7z&parent=%2Fsites%2Fcad2022%2FClass%20Materials%2F2022%2Ffall&p=true&ct=1671185734986&or=Teams%2DHL&ga=1
+此連結可以用來下載 Filezilla
+
+https://nfuedu.sharepoint.com/sites/cad2022/Class%20Materials/Forms/AllItems.aspx?id=%2Fsites%2Fcad2022%2FClass%20Materials%2F2022%2Ffall%2Ffilezilla%2E7z&parent=%2Fsites%2Fcad2022%2FClass%20Materials%2F2022%2Ffall&p=true&ct=1671185734986&or=Teams%2DHL&ga=1
+此連結可以用來下載 NX
+
+在Teams的W6中我們可以看到老師一共錄製了2個影片
+
+在Teams的W6中我們可以看到老師一共錄製了5個影片
+
+
+tud.cycu.org 為一台僅支援 IPv6 的 Ubuntu 22.04 server, 意思是只有 IPv6 網路連線可以連接
+
+tud.cycu.org 為一台僅支援 IPv6 的 Ubuntu 22.04 server, 意思是只有 IPv2 網路連線可以連接,
+
+研究 https://github.com/mdecycu/PyWeb3D 用於 3D 零組件展示與機構控制
+
+研究 https://github.com/mdecycu/PyWeb3D 用於 4D 零組件展示與機構控制
